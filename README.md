@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandun Anujaya</h1>
-<h3 align="center">A curious mind exploring data analytics and building full stack applications from Sri Lanka.</h3>
+<h3 align="center">A curious mind exploring big data analytics and building full stack applications from Sri Lanka.</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Analytics Animation"/>
