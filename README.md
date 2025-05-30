@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nandunanujaya0519@gmail.com**
 
-- ⚡ Fun fact **MERN**
+- ⚡ Fun fact **Mr.MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
