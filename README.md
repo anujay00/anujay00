@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cvnandunnandunanujaya.vercel.app/](https://cvnandunnandunanujaya.vercel.app/)
 
-- 💬 Ask me about **snowflake and MERN-stack.**
+- 💬 Ask me about **AIML and MERN-stack.**
 
 - 📫 How to reach me **nandunanujaya0519@gmail.com**
 
