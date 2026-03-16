@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Analytics Animation"/>
 </div>
 
-- 🌱 Currently diving deeper into **Power BI and PySpark for advanced big data analysis.**
+- 🌱 Currently diving deeper into **Software Development, Data Science and AIML**
 
 - 👯 I'm looking to collaborate on **data analytics.**
 
