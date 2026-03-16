@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nandun Anujaya</h1>
-<h3 align="center">A lifelong learner from Sri Lanka, weaving curiosity into data and creativity into software.</h3>
-<!-- Background image for GitHub README -->
-<p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/797/246/HD-wallpaper-coding-computer-pattern-white.jpg" alt="Background" width="100%" />
-</p>
+<div style="background-image: url('https://w0.peakpx.com/wallpaper/797/246/HD-wallpaper-coding-computer-pattern-white.jpg'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 10px;">
+  <h1 align="center">Hi 👋, I'm Nandun Anujaya</h1>
+  <h3 align="center">A lifelong learner from Sri Lanka, weaving curiosity into data and creativity into software.</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Analytics Animation"/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Analytics Animation"/>
+  </div>
 </div>
 
 - 🌱 Currently diving deeper into **Software Development, Data Science and AIML.**
