@@ -1,30 +1,49 @@
-<h1 align="center">Hi 👋, I'm Nandun Anujaya</h1>
-<h3 align="center">A lifelong learner from Sri Lanka, weaving curiosity into data and creativity into software.</h3>
+<style>
+  body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+  }
+</style>
+<video class="bg-video" autoplay loop muted playsinline>
+  <source src="https://cdn.pixabay.com/video/2023/07/21/172655-847860558_large.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<div class="content">
+  <h1 align="center">Hi 👋, I'm Nandun Anujaya</h1>
+  <h3 align="center">A lifelong learner from Sri Lanka, weaving curiosity into data and creativity into software.</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Analytics Animation"/>
-</div>
+  <div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Data Analytics Animation"/>
+  </div>
 
-- 🌱 Currently diving deeper into **Software Development, Data Science and AIML.**
+  <!-- ...existing code... -->
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/nadunanujaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandun anujaya" height="30" width="40" /></a>
+    <a href="https://instagram.com/anujaya_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujaya_00" height="30" width="40" /></a>
+  </p>
 
-- 👯 I'm looking to collaborate on **data analytics.**
-
-- 👨‍💻 All of my projects are available at [https://cvnandunnandunanujaya.vercel.app/](https://cvnandunnandunanujaya.vercel.app/)
-
-- 💬 Ask me about **AIML and MERN-stack.**
-
-- 📫 How to reach me **nandunanujaya0519@gmail.com**
-
-- ⚡ Fun fact **Mr.MERN**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nadunanujaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandun anujaya" height="30" width="40" /></a>
-<a href="https://instagram.com/anujaya_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujaya_00" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
